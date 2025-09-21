@@ -42,8 +42,8 @@ Higher Dice Score = better segmentation.
 ![Loss and Dice Score](assets/plots.png)
 
 ### Final Test Results
-- **Test Loss:** `0.21`  
-- **Test Dice Score:** `0.89`  
+- **Test Loss:** `0.0927`  
+- **Test Dice Score:** `0.9655`  
 
 ### Test Samples
 Predictions on test images:
