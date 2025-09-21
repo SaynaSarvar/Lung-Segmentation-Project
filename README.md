@@ -39,7 +39,7 @@ Higher Dice Score = better segmentation.
 ### Training Progress
 **Loss and Dice Score over epochs**:
 
-![Loss and Dice Score](assets/loss_dice_plot.png)
+![Loss and Dice Score](assets/plots.png)
 
 ### Final Test Results
 - **Test Loss:** `0.21`  
