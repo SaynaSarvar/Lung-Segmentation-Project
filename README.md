@@ -7,11 +7,10 @@ Images and masks are stored in `dataset/img` and `dataset/mask`.
 ---
 
 ## 📌 Table of Contents
-- [Dataset](#dataset)
-- [Metrics](#metrics)
-- [Results](#results)
-- [Features & Notes](#features--notes)
-- [Contact](#contact)
+- [Dataset](#-dataset)
+- [Metrics](#-metrics)
+- [Results](#-results)
+- [Features & Notes](#-features--notes)
 
 ---
 
